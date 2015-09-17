@@ -1,0 +1,6 @@
+c:\users\bring\documents\visual studio 2015\Projects\Problems_CircArray\Problems_CircArray\bin\Debug\Problems_CircArray.exe.config
+C:\Users\bring\documents\visual studio 2015\Projects\Problems_CircArray\Problems_CircArray\bin\Debug\Problems_CircArray.exe
+C:\Users\bring\documents\visual studio 2015\Projects\Problems_CircArray\Problems_CircArray\bin\Debug\Problems_CircArray.pdb
+C:\Users\bring\documents\visual studio 2015\Projects\Problems_CircArray\Problems_CircArray\obj\Debug\Problems_CircArray.csprojResolveAssemblyReference.cache
+C:\Users\bring\documents\visual studio 2015\Projects\Problems_CircArray\Problems_CircArray\obj\Debug\Problems_CircArray.exe
+C:\Users\bring\documents\visual studio 2015\Projects\Problems_CircArray\Problems_CircArray\obj\Debug\Problems_CircArray.pdb
